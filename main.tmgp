@@ -1,0 +1,44 @@
+Plugin "";
+
+
+Project "" on 
+Backend:
+"",
+
+Frontend:
+"",
+
+Main:
+"",
+
+;
+
+Type: "";
+
+
+Type of name: "";
+
+
+Name: ""; 
+
+
+GitHub: "";
+
+
+Type of GitHub: "";
+
+
+
+Base: "";
+
+
+Broken down by stages: [
+
+	Backend: {
+	
+	}
+
+	Frontend : {
+
+	}
+];
